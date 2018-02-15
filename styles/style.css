@@ -1,0 +1,20 @@
+body {
+	background-color: wheat;
+  }
+
+  h1{
+	  color: maroon;
+  }
+
+  #main{
+	  text-align: center;
+  }
+
+  #wisdom{
+	width: 400px;
+	margin: auto;
+  }
+  #quote-button{
+	background-color: green;
+	color: wheat;
+  }
